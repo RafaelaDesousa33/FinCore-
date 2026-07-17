@@ -4,6 +4,8 @@ Landing page de uma solução financeira desenvolvida com HTML e CSS.
 
 O projeto apresenta uma interface moderna e responsiva, com foco em organização visual e experiência do usuário.
 
+<img src="imagem_projeto_finCore.png" alt="imagem do projeto">
+
 ## Tecnologias
 
 * HTML5
